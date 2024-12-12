@@ -4,10 +4,20 @@ KOSTA 국비지원 웹개발자 과정 프로젝트 정리
 1. IDE
 - STS(Spring Tool Suite)
 2. 개발언어
-- Java
+- JAVA JDK 1.8
 - Javascript
-3. 기술스택
+3. 데이터베이스
+- Oracle 11g XE -> MySQL 이관 작업 중
+4. 기술스택
 - JSP
-4. API / 라이브러리
+- HTML5 / CSS3
+- MyBatis
+- JSON / XML
+- JUnit
+- Validator
+5. API / 라이브러리
 - JQuery
+- Lombok
+6. 그 외
+- Tomcat 8.0 & 8.5
   
