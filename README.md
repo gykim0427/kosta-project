@@ -1,5 +1,5 @@
 # 한국소프트웨어기술진흥협회 (KOSTA)
-KOSTA 국비지원 웹개발자 과정 프로젝트 정리
+KOSTA 국비지원 웹개발자 과정 프로젝트
 ## 개발환경
 1. IDE
 - STS(Spring Tool Suite)
@@ -20,4 +20,6 @@ KOSTA 국비지원 웹개발자 과정 프로젝트 정리
 - Lombok
 6. 그 외
 - Tomcat 8.0 & 8.5
+## 벤치마킹
+트렐로(Trello) 프로젝트 관리 사이트
   
