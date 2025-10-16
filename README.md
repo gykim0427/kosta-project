@@ -12,27 +12,27 @@ KOSTA 국비지원 웹개발자 과정 프로젝트
 
 ## 개발환경
 1. IDE
-- STS(Spring Tool Suite)
+  - STS(Spring Tool Suite)
 2. 개발언어
   - JAVA JDK 1.8
-- Javascript
+  - Javascript
 3. 데이터베이스
-  1) Oracle 11g
-  2) MariaDB (이관 작업 중)
+  - Oracle 11g
+  - MariaDB (이관 작업 중)
 4. 기술스택
-  1) JSP
-  2) HTML5 / CSS3
-  3) MyBatis
-  4) JSON / XML
-  5) JUnit
-  6) Validator
-  7) JQuery ?
-  8) AJAX ?
+  - JSP
+  - HTML5 / CSS3
+  - MyBatis
+  - JSON / XML
+  - JUnit
+  - Validator
+  - JQuery ?
+  - AJAX ?
 5. API / 라이브러리
-  1) JQuery
-  2) Lombok
+  - JQuery
+  - Lombok
 6. 그 외
-  1) Tomcat 8.0 & 8.5
+  - Tomcat 8.0 & 8.5
 
 ## 주요 기능
 1. 드래그 앤 드랍
