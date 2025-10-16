@@ -8,7 +8,7 @@ KOSTA 국비지원 웹개발자 과정 프로젝트
 프로젝트를 관리하는 업무협업 사이트
 
 ## 벤치마킹
-트렐로(Trello) 프로젝트 관리 사이트 (https://trello.com/)
+트렐로 (Trello - https://trello.com/)
 
 ## 개발환경
 1. IDE
