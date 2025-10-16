@@ -12,10 +12,10 @@ KOSTA 국비지원 웹개발자 과정 프로젝트
 
 ## 개발환경
 1. IDE
-  1) STS(Spring Tool Suite)
+- STS(Spring Tool Suite)
 2. 개발언어
-  1) JAVA JDK 1.8
-  2) Javascript
+  - JAVA JDK 1.8
+- Javascript
 3. 데이터베이스
   1) Oracle 11g
   2) MariaDB (이관 작업 중)
